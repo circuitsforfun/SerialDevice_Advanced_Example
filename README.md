@@ -37,7 +37,7 @@ The following dependencies are used:
 
 ###### Breadboard Setup:
 
-![MultipleIOBreadboard](img/BB_Setup.jpg)
+![MultipleIOBreadboard](img/Breadboard.jpg)
 
 ###### Video:
 
