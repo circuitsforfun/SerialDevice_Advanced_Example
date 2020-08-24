@@ -12,7 +12,7 @@ The Host side runs cross platform: Windows, Linux, OSX
 
 [Build Instructions](#build-instructions)
 
-The follow dependencies are used:
+The following dependencies are used:
 * [ImGui - 1.7.5](https://github.com/ocornut/imgui/tree/v1.75) (Included in the [thrid-party](SerialDevice_Multiple_IO/Host_App/third-party/) directory of this project)
 * [SerialDevicePeripheral Library](https://github.com/circuitsforfun/SerialDevicePeripheral)
 * [SerialDeviceHost Library](https://github.com/circuitsforfun/SerialDeviceHost)
@@ -56,6 +56,6 @@ _(Make sure you have the [SerialDevicePeripheral Library](https://github.com/cir
 1. Make a build directory
 2. On Windows you can use the CMake GUI if preferred (Specify the location of the SerialDeviceHost Library)
 3. Otherwise CD to build dir
-4. cmake ../ -DSerialDeviceHost_DIR=<path to SerialDeviceHost Library>
+4. cmake ../ -DSerialDeviceHost_DIR=\<path to SerialDeviceHost Library>
 5. build
 
