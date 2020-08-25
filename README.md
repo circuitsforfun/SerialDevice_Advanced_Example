@@ -24,7 +24,7 @@ The following dependencies are used:
 * Encoder knob for rotary input, show counter and use as list box selector
 * Physical push button for user input, show button press counter
 * UI Slider to control LED PWM value for LED intensity
-* Checkbox toggle LED on/off
+* Checkbox toggle on/off for secondary on board LED
 * UI Button to use ESP32 True Random Number Generator, show raw value and use first three byte for random RGB Color
 
 ###### Interface:
@@ -41,7 +41,7 @@ The following dependencies are used:
 
 ###### Video:
 
-_Coming Soon...._
+[![Video Example](http://img.youtube.com/vi/81um2HNy-0M/0.jpg)](http://www.youtube.com/watch?v=81um2HNy-0M "Serial Device Peripheral - Multiple IO Example")
 
 
 ## Build Instructions
